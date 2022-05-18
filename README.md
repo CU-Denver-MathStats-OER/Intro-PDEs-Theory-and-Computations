@@ -1,2 +1,7 @@
-# Intro-PDEs-Theory-and-Computations
-Introduction to Partial Differential Equations: Theory and Computations
+# Introduction to Partial Differential Equations: Theory and Computations
+
+A Jupyter notebook based introduction to the theory and computations of classical partial differential equations including Poisson's equation, the heat equation, and the wave equation. A semi-deep dive into the convergence theory of Fourier series is also included. The numerical estimation of solutions is presented on geometrically simple domains using classic finite difference schemes. 
+
+
+## Creative Commons License Information
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Introduction to Partial Differential Equations: Theory and Computations</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/CU-Denver-MathStats-OER/Intro-PDEs-Theory-and-Computations" property="cc:attributionName" rel="cc:attributionURL">Troy Butler</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/CU-Denver-MathStats-OER/Intro-PDEs-Theory-and-Computations" rel="dct:source">https://github.com/CU-Denver-MathStats-OER/Intro-PDEs-Theory-and-Computations</a>.
