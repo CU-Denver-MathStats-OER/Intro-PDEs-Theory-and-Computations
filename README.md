@@ -16,7 +16,7 @@ This material serves as the textbook for the *MATH 4733/5733: Partial Differenti
 
   - The importance of manufactured solutions and the role that sympy can play in constructing them 
 
-- Chp1Sec2.ipynb - Approximations and Rates of Convergence (motivated by Project 1.1) 
+- Chp1Sec2.ipynb - Approximations and Rates of Convergence
 
   - How to estimate ROC with regression and watching out for finite precision arithmetic issues 
 
