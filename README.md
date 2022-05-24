@@ -1,6 +1,6 @@
 # Introduction to Partial Differential Equations: Theory and Computations
 
-A Jupyter notebook based introduction to the theory and computations of classical partial differential equations including Poisson's equation, the heat equation, and the wave equation. A semi-deep dive into the convergence theory of Fourier series is also included. The numerical estimation of solutions is presented on geometrically simple domains using classic finite difference schemes. 
+This repo contains a Jupyter notebook based introduction to the theory and computations of classical partial differential equations including Poisson's equation, the heat equation, and the wave equation. A semi-deep dive into the convergence theory of Fourier series is also included. The numerical estimation of solutions is presented on geometrically simple domains using classic finite difference schemes. 
 
 This material serves as the textbook for the *MATH 4733/5733: Partial Differential Equations* course at CU Denver.
 
